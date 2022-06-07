@@ -67,6 +67,7 @@
 - truncated SVD을 통해 데이터의 주된 특징 추출하여 희소 문제와 차원의 저주에 대응함 
 
 ### 3. 결과
+- 추천 결과와 원본 데이터와의 오차를 판단하기 위해 RMSE를 평가지표로 사용함
 - 추천 시스템의 성능이 베이스라인 이상의 성능을 보임
  <img width="633" alt="스크린샷 2022-06-07 오후 12 18 51" src="https://user-images.githubusercontent.com/93904398/172288536-9652a392-ec6e-4e9d-bcfa-1d9a6caf5f1f.png">
 
